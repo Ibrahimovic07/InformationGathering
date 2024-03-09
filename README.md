@@ -22,6 +22,7 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## OUTPUT:
+![output](./linex.jpeg)
 
 
 ## RESULT:
